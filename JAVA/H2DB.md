@@ -68,7 +68,8 @@ spring:
 
 애플리케이션을 실행하면 H2DB가 메모리 모드에서 실행되고, `application.yml` 파일에 설정한 대로 H2 콘솔을 통해 데이터베이스를 확인할 수 있습니다. 애플리케이션을 실행한 후 브라우저에서 `http://localhost:8080/h2-console`로 접속하여 설정한 데이터베이스를 확인할 수 있습니다.
 
-![img](https://file.notion.so/f/f/73b72b54-ef99-4cf9-b18e-778678e237ad/33c66f14-c0e8-40c9-8525-dbfcc665c4e7/Untitled.png?id=a5dbed01-5556-4c35-b293-4723a91dd8ab&table=block&spaceId=73b72b54-ef99-4cf9-b18e-778678e237ad&expirationTimestamp=1722470400000&signature=2u7uxiEoHvux57f26NP1cTCIWP-WTZXMpAJ1LWPNnmQ&downloadName=Untitled.png)
+![image](https://github.com/user-attachments/assets/58db1d1d-61c4-414d-94e4-204415f16346)
+
 
 # 테스트 코드에서 H2DB 사용하기
 
